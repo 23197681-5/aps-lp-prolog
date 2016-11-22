@@ -1,6 +1,7 @@
 %   Squadron(-Solution)
 %   @param  Solution is a list of houses that satisfy all constraints.
 %   @author Willian Lauber
+%falta O avião que solta fumaça verde está imediatamente à direita do avião que solta fumaça branca.
 %   @see https://rachacuca.com.br/logica/problemas/esquadrilha-de-avioes/
 
 %pesquisas
