@@ -1,2 +1,2 @@
 # aps-lp-prolog
-Prolog Einstein like problem solved
+Einstein like problem solved with prolog
